@@ -1,2 +1,2 @@
 # Workdairy
-ocial internship workdairy
+social internship workdairy
